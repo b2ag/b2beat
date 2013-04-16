@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">b2beat</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_browser">File Browser</string>
+    <string name="no_data">No files selected. Use buildin file browser to add audio files. Start with one swip right or choose "File Browser" from menu. Get more settings with swipe left or by choosing "Settings" in menu.</string>
+    <string name="general_preferences">General Settings</string>
+    <string name="sounds_browser_root_directory_preference">File browser root directory</string>
+    <string name="summary_sounds_browser_root_directory_preference">Directory from which you can start selecting audio files with buildin file browser.</string>
+    <string name="troubleshoot_preferences">Troubleshoot</string>
+    <string name="reset_songlist_preference">Clear selected files list</string>
+    <string name="summary_reset_songlist_preference">Click here to reset selected files list in case you can\'t manage to deselect a file with file browser.</string>
+    <string name="reset">Reset</string>
+    <string name="reset_confirm">Sure?</string>
+    
+</resources>

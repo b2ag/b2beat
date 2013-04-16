@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">b2beat</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_browser">Dateibrowser</string>
+    <string name="no_data">Es sind keine Sounds ausgewählt. Benutze den eingebauten Dateibrowser und füge Audiodateien zur Songs-Liste hinzu. Einmal nach rechts wischen oder im Menü "Dateibrowser" auswählen. Für weitere Einstellungen nach links wischen oder im Menü "Einstellungen" auswählen.</string>
+    <string name="general_preferences">Allgemeine Einstellungen</string>
+    <string name="sounds_browser_root_directory_preference">Dateibrowser Stammverzeichnis</string>
+    <string name="summary_sounds_browser_root_directory_preference">Das Verzeichnis aus dem die Sounds mit dem Dateibrowser ausgewählt werden.</string>
+    <string name="troubleshoot_preferences">Fehlerbehebung</string>
+    <string name="reset_songlist_preference">Sounds-Liste zurücksetzen</string>
+    <string name="summary_reset_songlist_preference">Die Liste der ausgewählten Sounds zurücksetzen. Falls das Abwählen einiger Sounds im Dateibrowser nicht funktioniert.</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="reset_confirm">Sicher?</string>
+
+</resources>

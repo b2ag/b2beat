@@ -1,0 +1,22 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/general_preferences" >
+        <EditTextPreference
+            android:dialogTitle="@string/sounds_browser_root_directory_preference"
+            android:key="sounds_browser_root_directory"
+            android:summary="@string/summary_sounds_browser_root_directory_preference"
+            android:title="@string/sounds_browser_root_directory_preference" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/troubleshoot_preferences" >
+        <PreferenceScreen
+            android:summary="@string/summary_reset_songlist_preference"
+            android:title="@string/reset_songlist_preference" >
+            <intent
+                android:action="android.intent.action.MAIN"
+                android:data="reset_songlist"
+                android:targetClass="de.b2ag.b2beat.SettingsActivity"
+                android:targetPackage="de.b2ag.b2beat" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+
+</PreferenceScreen>
